@@ -57,13 +57,14 @@ client.on('messageCreate', async (message) => {
 
     // Useful sections to display (adjust or add as needed)
     const importantSections = [
+      'Bio',
       'Abilities',
-      'Counters',
-      'Immunities',
-      'Signature Ability - Hero\'s Mantra',
-      'Synergy Bonuses',
+      'Signature Ability',
+      'Special Attacks',
       'Strengths',
       'Weaknesses',
+      'Counters',
+      'Immunities',
       'Relic Recommendations',
       'Signature Recommendations',
       'Notes',
