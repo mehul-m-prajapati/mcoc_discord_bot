@@ -1,8 +1,8 @@
-# 🦸 MCOC Info Bot - Discord Champion Info Fetcher
+## 🦸 MCOC Discord Bot - Champion Info Fetcher
 
 A simple and powerful Discord bot that fetches champion information for **Marvel Contest of Champions (MCOC)** directly from the MCOC Fandom Wiki.
 
-> Uses [wtf_wikipedia](https://www.npmjs.com/package/wtf_wikipedia) to parse data from [marvel-contestofchampions.fandom.com](https://marvel-contestofchampions.fandom.com).
+- Uses [wtf_wikipedia](https://www.npmjs.com/package/wtf_wikipedia) to parse data from [marvel-contestofchampions.fandom.com](https://marvel-contestofchampions.fandom.com).
 
 ---
 
@@ -51,6 +51,8 @@ $ node bot.js
 ```
 !champ <name>	Fetches champion info from MCOC Wiki
 ```
+
+---
 
 ### References
 - Discord.js v14
