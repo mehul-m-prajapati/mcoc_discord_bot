@@ -1,0 +1,28 @@
+{
+  "name": "mcoc_discord_bot",
+  "version": "1.0.0",
+  "description": "mcoc info bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js ",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehul-m-prajapati/mcoc_discord_bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/mehul-m-prajapati/mcoc_discord_bot/issues"
+  },
+  "homepage": "https://github.com/mehul-m-prajapati/mcoc_discord_bot#readme",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1",
+    "wtf_wikipedia": "^10.4.0"
+  }
+}
