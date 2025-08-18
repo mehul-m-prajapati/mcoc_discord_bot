@@ -1,10 +1,25 @@
-import { Client, GatewayIntentBits, EmbedBuilder } from 'discord.js';
+import { Client, GatewayIntentBits, EmbedBuilder, SlashCommandBuilder } from 'discord.js';
 import dotenv from 'dotenv';
 import wtf from 'wtf_wikipedia';
 
 dotenv.config();
 
 const DOMAIN = 'marvel-contestofchampions.fandom.com';
+
+// Example list of champions (you should fetch/cache this from wiki once)
+const CHAMPIONS = [
+  "Spider-Man (Stark Enhanced)",
+  "Doctor Doom",
+  "Cosmic Ghost Rider",
+  "Archangel",
+  "Colossus",
+  "Hercules",
+  "Kitty Pryde",
+  "Scorpion",
+  "Absorbing Man",
+  "Shuri",
+  // ... add more
+];
 
 async function fetchChampionData(champName) {
   try {
@@ -27,110 +42,101 @@ async function fetchChampionData(champName) {
 }
 
 const client = new Client({
-  intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.MessageContent],
+  intents: [GatewayIntentBits.Guilds],
 });
 
 client.once('ready', () => {
-  console.log(`Logged in as ${client.user.tag}`);
+  console.log(`✅ Logged in as ${client.user.tag}`);
 });
 
-client.on('messageCreate', async (message) => {
-  if (message.author.bot) return;
+// Handle slash command + autocomplete
+client.on('interactionCreate', async (interaction) => {
 
-  // Command prefix: !champ
-  if (!message.content.toLowerCase().startsWith('!champ')) return;
+  if (interaction.isAutocomplete()) {
 
-  const champName = message.content.slice(6).trim();
-  if (!champName) {
-    await message.reply('Please provide a champion name. Example: `!champ Spider-Man (Stark Enhanced)`');
-    return;
+    // Autocomplete: filter champions
+    const focused = interaction.options.getFocused();
+    const filtered = CHAMPIONS.filter(c =>
+      c.toLowerCase().includes(focused.toLowerCase())
+    ).slice(0, 25); // Discord max = 25
+
+    await interaction.respond(
+      filtered.map(name => ({ name, value: name }))
+    );
   }
 
-  try {
-    await message.channel.sendTyping();
+  if (interaction.isChatInputCommand() && interaction.commandName === 'champ') {
+    const champName = interaction.options.getString('name');
+    await interaction.deferReply();
 
-    const data = await fetchChampionData(champName);
+    try {
+      const data = await fetchChampionData(champName);
 
-    const embed = new EmbedBuilder()
-      .setTitle(data.champName)
-      .setColor('#007bff');
+      const embed = new EmbedBuilder()
+        .setTitle(data.champName)
+        .setColor('#007bff');
 
-    // Useful sections to display (adjust or add as needed)
-    const importantSections = [
-      'Bio',
-      'Abilities',
-      'Signature Ability',
-      'Special Attacks',
-      'Strengths',
-      'Weaknesses',
-      'Counters',
-      'Immunities',
-      'Relic Recommendations',
-      'Signature Recommendations',
-      'Notes',
-    ];
+      const importantSections = [
+        'Bio',
+        'Abilities',
+        'Signature Ability',
+        'Special Attacks',
+        'Strengths',
+        'Weaknesses',
+        'Counters',
+        'Immunities',
+        'Relic Recommendations',
+        'Signature Recommendations',
+        'Notes',
+      ];
 
-    for (const sectionName of importantSections) {
-      if (data.sections[sectionName]) {
-        // Truncate to 1024 chars max for Discord embed fields
-        const text = data.sections[sectionName].length > 1024
-          ? data.sections[sectionName].slice(0, 1021) + '...'
-          : data.sections[sectionName];
-        embed.addFields({ name: sectionName, value: text });
+      for (const sectionName of importantSections) {
+
+        if (data.sections[sectionName]) {
+            let text = data.sections[sectionName]
+            .replace(/\n+/g, '\n')  // clean up line breaks
+            .replace(/Dev Notes:/gi, '**Dev Notes:**')  // highlight dev notes
+            .replace(/\b(Bleed|Incinerate|Armor Break|Power Lock)\b/gi, '**$1**'); // bold key terms
+
+            // Truncate long text
+            if (text.length > 900) {
+                text = text.slice(0, 900) + `...\n[Read more](https://${DOMAIN}/wiki/${encodeURIComponent(data.champName)})`;
+            }
+
+            embed.addFields({ name: `📖 ${sectionName}`, value: text });
+        }
       }
-    }
 
-    // Add image if available
-    if (data.images.length > 0) {
-      embed.setThumbnail(data.images[0]);
-    }
 
-    await message.channel.send({ embeds: [embed] });
-  } catch (err) {
-    console.error(err);
-    await message.reply(`Failed to fetch champion data for "${champName}". Please check the spelling or try a different champion.`);
+      if (data.images.length > 0) {
+        embed.setThumbnail(data.images[0]);
+      }
+
+      await interaction.editReply({ embeds: [embed] });
+    }
+    catch (err) {
+      console.error(err);
+      await interaction.editReply(
+        `❌ Failed to fetch data for "${champName}". Please contact admin.`
+      );
+    }
   }
+});
+
+// Register slash command once (you can move to deploy-commands.js)
+client.on('ready', async () => {
+
+  const data = new SlashCommandBuilder()
+    .setName('champ')
+    .setDescription('Get info about a Marvel Contest of Champions champion')
+    .addStringOption(option =>
+      option.setName('name')
+        .setDescription('Champion name')
+        .setAutocomplete(true)
+        .setRequired(true)
+    );
+
+  await client.application.commands.create(data);
 });
 
 client.login(process.env.DISCORD_TOKEN);
-
-
-/*
-(async () => {
-  try {
-    const champName = 'Cosmic_Ghost_Rider';
-    const data = await fetchChampionData(champName);
-
-    console.log(`\n=== Champion: ${data.champName} ===\n`);
-
-    // List of important sections to display
-    const importantSections = [
-      'Bio',
-      'Abilities',
-      'Signature Ability',
-      'Special Attacks',
-      'Strengths',
-      'Weaknesses',
-      'Counters',
-      'Immunities',
-      'Relic Recommendations',
-      'Signature Recommendations',
-      'Notes',
-    ];
-
-    importantSections.forEach(section => {
-      if (data.sections[section] && data.sections[section].trim().length > 0) {
-        const text = data.sections[section].trim();
-        const truncated = text.length > 600 ? text.slice(0, 597) + '...' : text;
-        console.log(`--- ${section} ---\n${truncated}\n`);
-      }
-    });
-
-    if (data.images.length > 0) {
-      console.log('Image URL:', data.images[0], '\n');
-    }
-  } catch (err) {
-    console.error('Error fetching champion data:', err.message);
-  }
-})();
-*/

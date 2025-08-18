@@ -34,7 +34,7 @@ Bot replies with an embedded message showing key info and image (if available):
 ## 🛠️ Installation
 
 ```bash
-$ git clone https://github.com/yourusername/mcoc-discord-bot.git
+$ git clone https://github.com/mehul-m-prajapati/mcoc-discord-bot.git
 
 $ cd mcoc-discord-bot
 
