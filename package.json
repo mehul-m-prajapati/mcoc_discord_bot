@@ -21,7 +21,10 @@
   },
   "homepage": "https://github.com/mehul-m-prajapati/mcoc_discord_bot#readme",
   "dependencies": {
-    "discord.js": "^14.21.0",
+    "axios": "^1.11.0",
+    "cheerio": "^1.1.0",
+    "csv-parse": "^6.1.0",
+    "discord.js": "^14.22.0",
     "dotenv": "^17.2.1",
     "wtf_wikipedia": "^10.4.0"
   }

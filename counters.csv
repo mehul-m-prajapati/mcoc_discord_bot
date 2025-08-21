@@ -1,0 +1,645 @@
+Class,Champion,Tips against this defender 💡,Counters
+Cosmic,Adam Warlock,"Adam Warlock ignores the abilities of many mystics, and is immune to ability nullification and reduction.
+Additionally, Adam's special attacks and blows become unblockable. Against Adam, you should use champions with power steal. You shouldn't hit the stasis chamber, otherwise the attacker will be stunned.","White Tiger, Symbiote Supreme, Spiral, Doctor Doom, The Hood, America Chavez"
+Cosmic,Air-Walker,"Air Walker presents 2 dangers. Dark Tide damage and intense power gain.
+To avoid this damage, you should use nullifiers and remove the Power Cosmic or use power controllers.
+Champions that are immune to armor break or that purify are also a good answer against Air Walker.","The Destroyer, Doctor Doom, America Chavez, The Hood, Absorbing Man, Wiccan"
+Cosmic,Annihilus,"Against Annihilus, it's not a good idea to use champions that don't eliminate the cosmic staff. ❌
+By nullifying the Cosmic Staff, Annihilus loses the ability to become unstoppable and loses immunity to power drain.
+In addition to nullifiers against Annihilus, you can use champions that reduce the duration of the unstoppable.","Absorbing Man, Shathra, Longshot, The Hood, Symbiote Supreme, Nico Minoru"
+Tech,Ant-Man (Future),"The most effective way to defeat Future Ant-Man is to use champions with piercing effects.
+This defender's biggest threat is evasion/glancing, piercing effects prevent this ability.
+Champions with armor break are also good options. It's advisable to keep him on SP1.","Hulkling, Magneto, Thanos (Deathless), The Hood, Nico Minoru, Beta Ray Bill"
+Mutant,Apocalypse,"The best options are the feat removers.
+To avoid feeding the genetic code, you should use Robots. As a rule, it's preferable to keep it in SP1.
+You should never use any mutant ❌","Nimrod, Bastion, Ant-Man (Future), Warlock, Iron Man, Jack O'Lantern"
+Tech,Arcade,"Arcade is a major defensive threat in the game. The biggest problems he can pose are:
+➔ Auto-Block
+➔ Poison Debuffs
+
+How does the Auto-Block mechanic work?
+Arcade has 100% Auto-Block. If he has 3 Tokens accumulated, this Auto-Block stuns the opponent and applies shock.
+It's impossible to avoid Arcade's Auto-Block with True Strike, True Precision or True Sense effects, as it reduces the accuracy of these abilities by 100%.
+However, champions with access to the Shake Bonus can ignore the Auto-Block. One of the best champions with this effect is Gorr.
+
+How to defeat Arcade?
+Whenever he's knocked down, Arcade loses 2 Tokens. This is the secret to avoiding Arcade's biggest dangers.
+In addition, SP1 applies a Venomous Cloud, which applies Poisons to the opponent.
+With Poison Arcade gains Tokens, so against Arcade you should ALWAYS force SP2.
+Therefore, as soon as the fight starts, you should use Heavies to remove Arcade's Tokens and you should avoid SP1.
+An important detail is that Arcade cannot auto-block the Opponent's Heavies.","Scream, Gorr, Hulkling, Vox, Mole Man, Chee'ilth, The Serpent, The Hood, Thanos (Deathless)"
+Tech,Arnim Zola,"Armin Zola's main defensive mechanic is Passive Sleep.
+In addition, he passively reduces the damage of the Attacker's Special Attacks by 90%.
+Zola's SP2 also applies a Passive Disintegration that cannot be avoided.
+
+How does the Passive Sleep mechanic work?
+Arnim Zola gains ESP Charges whenever he Blocks a Blow (3 Charges) or is Hit by an attack that is not a Heavy (1 Charge).
+After 20 Charges, Zola has a 10% Chance to apply a Passive Sleep for 3 Seconds to the Attacker.
+Passive Sleep puts the Attacker to Sleep, which makes them unable to Attack, Block or Move.
+Furthermore, when Sleeping, the Attacker is completely Vulnerable to the Defender's attacks.
+
+How to AVOID the Passive Sleep mechanic?
+Whenever Arnim Zola is knocked down by a Heavy Attack, he loses 10 ESP Charges.
+Therefore, during the fight, as long as the Attacker uses Heavy Attack frequently, Zola will not be able to put the Attacker to Sleep.
+The best Champions against Zola are those who have an easy time using Heavy Attack.
+Champions that apply Passive Stun when charging Heavy Attack are direct counters to Zola.
+Another solution is to use Champions with Invisibility or Unstoppable Mechanics, since it's easy to use Heavy without having to Stun Arnim Zola.","Thanos (Deathless), Beta Ray Bill, Void, Jack O'Lantern, The Hood, Prowler, Spider-Woman (Jessica Drew), Phoenix, Karolina Dean"
+Mutant,Bishop,"You should never use any champion with bleed, shock or incinerate damage against Bishop. ❌
+The ideal is to use champions immune to incinerate who are of the tech class.
+Both SP1 and SP2 are specials that are difficult to dodge, so it's advisable to block.","Iron Man (Infamous), Ironheart, Ultron, Iron Man, Ant-Man (Future), Prowler"
+Tech,Captain America (Sam Wilson),"You shouldn't use special attacks against this champion, as he auto-blocks and retaliates immediately.
+Champions with armor break have an advantage against Capt. Wilson. You should also not use champions who rely on activating multiple abilities because he retaliates with burst damage.","Galan, Hulkling, Hercules, Medusa, Thanos (Deathless), Vox"
+Mutant,Captain Britain,"Captain Britain has been updated to be a good Defender.
+
+She has Safeguard Mechanics, preventing her from losing more than 3% health in a single hit.
+
+The biggest threat she poses is Neuroshock, which is applied to enemies quite frequently.
+
+Hitting Captain Britain with Critical Hits or applying Bleed and Shock to her is essentially a death sentence.
+How to avoid Neuroshock?
+
+To avoid Neuroshock, you cannot:
+▶ Hit Captain Britain with Critical Hits, so champions who don't Critically Hit have an advantage.
+▶ Apply Bleed and Shock to Captain Britain.
+▶ Purify any debuffs against Captain Britain.
+▶ Hitting Captain Britain while the attacker is suffering from Exhaustion, Captain Britain applies exhaustion on SP1, so it's best not to hit her while this Exhaustion is active.","The Maker, Shocker, Jack O'Lantern, Bastion, Prowler, Guillotine 2099"
+Science,Cassie Lang,"Cassie Lang dodges frequently, and when she uses SP1, if the opponent doesn't land 14 hits in 12 seconds, they will take direct damage.
+Against her, it's advisable to force SP2 and use champions that purify or reduce abilities.","Falcon, Silver Sable, Cyclops (Blue Team), Crossbones, Okoye, Mole Man"
+Science,Count Nefaria,"Count Nefaria's biggest problem is his Resistances.
+he's extremely Resistant to all Physical and Energy Damage. he's also Resistant to Degeneration.
+Furthermore, using champions with Passive Power Gain is not advised since this makes him gain his Resistances even faster.
+Therefore, against Count Nefaria the best champions are those with access to Armor Break and Fury.
+One of the only Effects that Count Nefaria is completely vulnerable to is Poison.","Arcade, Crossbones, Thanos (Deathless), Galan, Bastion, Abomination (Immortal)"
+Mutant,Dani Moonstar,"Against Dani, you should keep her on SP1, because it's much easier to dodge.
+You should also avoid hitting her block since she can become invisible.","Nimrod, Ironheart, Archangel, Iron Man (Infamous), Omega Sentinel, Iron Man"
+Cosmic,Dark Phoenix,"Dark Phoenix's main defensive threats are: Nova Flame (only 2 champions are immune), Immortality, Safeguard and Specials with Root.
+The main dangers of this Defender:
+➤ Safeguard Bonus
+Dark Phoenix receives a Safeguard Bonus at the beginning of the fight and every 10 seconds.
+This Safeguard prevents her from losing 5% of her life from a single source of damage.
+In addition, the Safeguard also reduces the Potency of Damage and Sting Effects by 75%.
+➤ Immortality
+When Dark Phoenix has 1% health left, she activates Immortality.
+As soon as Immortality activates, the Opponent receives a Nova Flame Passive.
+Only 2 champions are immune to Nova Flame [Ice Man and Dark Phoenix], however, for each Poison applied to Dark Phoenix, the duration of Nova Flame is reduced by 40%.
+If the attacker isn't a Mystic, then this reduction cannot exceed 40%. If the attacker is a Mystic, then it's possible to completely avoid the Nova Flame by applying 3 Poisons.
+In addition, Dark Phoenix regenerates all Energy Damage suffered during Immortality.
+➤ Nova Flame
+Whenever she activates Special Attacks, Dark Phoenix applies a Nova Flame to the Opponent after 3 Seconds.
+For each hit the attacker makes on her after the Special, the Nova Flame's duration is reduced by 13%.
+In other words, if the Opponent hits 8 Hits in 3 seconds, the Nova Flame is not applied.
+Another way to reduce the Nova Flame's duration is by applying Poisons to Dark Phoenix.
+➤ Special Attacks
+Whenever she uses SP1, she activates an Unstoppable for 5 seconds.
+Whenever she uses SP2, she passively Roots the Opponent.
+In addition, her Special Attacks are Unblockable while she is Immortal.
+
+How to defeat Dark Phoenix?
+➤ Champions with Access to Poison
+Poison reduces the duration of Nova Flame by up to 100% [if she is a Mystic], which immediately removes the main danger.
+➤ Champions with Access to Seal Fate, Buff Immunity and Atrophy
+Dark Phoenix's Buffs can have their reduction reduced, so champions like Mojo, Kindred, Absorbing Man and Shahtra are good answers.
+In addition, Seal Fate [The Hood has the best access] and Buff Immunity [only Claire has access] completely prevent Safeguard, Unstoppable and Immortality.
+➤ Champions with High Energy Resistance
+Dark Phoenix's Nova Flame Damage and Attacks are Energy-based, so champions with high Energy Resistance [at least 60%] have a clear advantage against this Defender.
+➤ Champions with Mechanics that Prevent Immortality
+Some champions completely prevent Immortality, the best being Isophyne, Spiral and Absorbing Man.
+Spiral has a special advantage because her base combo has a lot of hits and also prevents the damage from Flame Nova.","The Hood, Diablo, Shathra, Count Nefaria, Abomination (Immortal), Spiral, Tigra, Black Widow (Claire Voyant), Kindred, Absorbing Man, Mojo, Nico Minoru"
+Mutant,Dazzler,"Dazzler, like Man-Thing, reduces the Potency of Critical Damage to Zero, unless the opponent is Tech.
+Therefore, against Dazzler it's important to use champions with Secondary Damage Effects.
+In addition, for every 10 Hits that the Opponent lands on Dazzler, she becomes Invisible when she runs forward.","Prowler, The Serpent, Ironheart, Sentinel, Jack O'Lantern, Onslaught"
+Mutant,Domino,"Champions that are immune to ability reduction are the best against Domino.
+Using a champion that relies on chance-based abilities can be lethal against Domino. ❌
+You should use tech-based champions and always be careful about dodging when she fills a bar of power.","Nimrod, Viv Vision, Lady Deathstrike, Red Skull, Shuri, Prowler"
+Mutant,Dust,"Dust is another champion with Evasion mechanics.
+All Abilities that activate through Block don't work against Dust.
+Hitting Sand while on Block or with Medium Hits causes her to apply Sand Debuffs.
+
+The main dangers of this Defender:
+➤ If 4 Sand Debuffs are stacked on the Attacker, Dust enters Sandstorm Mode and converts the 4 Sand Debuffs into a Passive that makes the Attacker lose health every second.
+➤ If Dust's SP1 is blocked, she applies 2 Sand Debuffs, so it's important to dodge this special completely.
+
+How to defeat Dust?
+While fighting Dust, it's important to pay attention to the Sand Debuffs, you shouldn't hit the block or use excessive medium attacks. It's also mandatory to dodge SP1.
+
+However, there is a way to remove the Sand Debuffs.
+➤ Applying 1 Incinerate or Plasma Effect removes a Sand Debuff.
+Therefore, using champions with frequent access to Plasma or Incinerate completely counters Dust.
+Another good solution is to use champions with high resistance to Physical Damage, the best in this case being Absorbing Man.","Ironheart, Silk, Jack O'Lantern, Prowler, Viv Vision, Bastion"
+Science,Electro,"The big problem with Electro is that he returns part of the damage he receives in the form of energy damage.
+Against him, the best options are champions with high energy resistance or who reduce abilities.","Archangel, Dazzler, Havok, Falcon, Negasonic Teenage Warhead, Prowler"
+Cosmic,Galan,"Galan is dangerous because of the harvest detonation on the defender. He's also immune to dispels.
+You should never use champions with armor bonuses against Galan, as this feeds the harvest. ❌
+The best way to control Galan is to use champions with neutralize or use champions with power steal.","Rintrah, Purgatory, America Chavez, Wiccan, Tigra, The Hood"
+Mutant,Gentle,"Gentle gains a Boost Passive whenever he's hit by a guaranteed critical hit or by 2 critical hits within 2 seconds. This Passive prevents the Attacker from landing any critical hits.
+In addition, every 15 hits made by the Attacker, Gentle becomes Passively Unstoppable for 3 Seconds.
+
+How to defeat Gentle?
+➤ The Boost Passive lasts 20 seconds and has no cooldown, meaning the opponent cannot land critical hits throughout the fight. For this reason, it's mandatory to use Attackers with access to Damage Effects.
+➤ In addition, it's necessary to pay close attention to the Unstoppable Passive, since this Unstoppable activates even during the Attacker's Specials.
+➤ Champions with Slows or Anti-Unstoppable Mechanics such as Resilience are good answers, but it's important that they have access to Damage Effects.","Sentinel, Jack O'Lantern, Nimrod, Lady Deathstrike, Beta Ray Bill, Nico Minoru"
+Cosmic,Gladiator,"The Gladiator becomes Unstoppable for 4 seconds when he uses SP1.
+In addition, Specials apply debuffs even if they are blocked.
+SP1 applies Cold Wave and SP2 applies Incinerate through the block.
+Against this defender, it's advisable to use champions that are Immune to Incinerate and Cold Wave, or else use a good Power Controller.","Absorbing Man, Shathra, America Chavez, Isophyne, The Hood, Nico Minoru"
+Cosmic,Gorr,"Gorr is a defender that is simply difficult to take down without very specific counters. ❌
+His biggest danger is his massive regeneration, but in addition to that, if all the bonuses are not nullified, he applies shock, bleed and poison through block.
+You should use nullifiers or neutralizers against him.","White Tiger, Longshot, Kushala, The Hood, Symbiote Supreme, Nico Minoru"
+Tech,Guardian,"Against the Guardian, you shouldn't use champions that rely on bleed or energy damage.
+If the attacker you use doesn't break or nullify his armor, then you shouldn't use special attacks because he'll auto-block.
+Champions with vigilance also avoid auto-block.","Medusa, Thanos (Deathless), Galan, Hulkling, Scream, Vox"
+Mutant,Havok,"Against Havok, it is mandatory to use champions with active armor bonuses.
+It's preferable to force him to use heavy and SP2, this way you control the plasma charges.
+You shouldn't use champions with energy damage or those that cause bleeding against Havok. ❌","Warlock, Ultron, Colossus, Ant-Man (Future), Iron Man, Yondu"
+Science,High Evolutionary,"High Evolutionary is currently one of the best defenders in the game. His main defensive threats are Auto-Block, Combo Detonation, and Inverted Controls.
+There are few effective counters against him, and several rules must be followed to take him down.
+
+The main dangers of this defender:
+
+Auto-Block
+➤ Whenever the attacker repeats the same move, the High Evolutionary gains 3 charges of the passive Auto-Block.
+This Auto-Block cannot be avoided by Ability Reductions or Effects like Sabotage or True Sense.
+Fortunately, the High Evolutionary's Auto-Block doesn't trigger the Parry Mastery.
+Still, it's best for the attacker not to repeat any Basic Moves; this way, they won't have to deal with Auto-Block.
+
+Combo Detonation
+➤ When the Attacker gains 1 Bar of Power, they suffer a 16-Hit Passive Combo Detonation.
+Upon suffering this Combo Detonation, the Attacker is forced to Hit the High Evolutionary 16 times in just 18 seconds.
+If the Attacker fails to hit the High Evolutionary 16 times within 18 seconds, they suffer a Direct Damage Explosion equivalent to 280% of the Defender's Attack.
+The power of this Detonation is truly overwhelming, so it cannot be ignored.
+
+Inverted Controls
+➤ When the High Evolutionary uses SP2 or SP3, it places an Evolutionary Field on the Attacker for 12 seconds.
+While the Attacker is within this Evolutionary Field, they suffer an Inverted Controls.
+Furthermore, being within this Evolutionary Field increases the damage of the Passive Combo Detonation.
+
+Ideally, the Attacker should NEVER let the High Evolutionary use SP2. ⛔","Okoye, Bullseye, Yelena Belova, Nick Fury, Kate Bishop, Chee'ilth"
+Science,Hulk (Immortal),"The only danger this defender poses is the massive regeneration at the end of his first life.
+He's immune to petrification and healing reduction, so to avoid his healing you need to use champions with healing block or that reduce defensive abilities.","Okoye, Black Cat, Crossbones, Nick Fury, Falcon, Silver Sable"
+Tech,Hulkbuster,"It's important to use champions that can break armor against Hulkbuster, otherwise the ability reduction and shock damage can be lethal. Another good option is buff nullifiers.
+Using a champion that is immune to shock but doesn't have armor nullifiers or breaks is not recommended. ❌","Magneto, Scream, Cosmic Ghost Rider, Hulkling, Thanos (Deathless), Medusa"
+Cosmic,Hulkling,"To easily take down this defender, you need to use the right counter.
+Hulkling has indestructible, unblockable, regeneration and block penetration effects.
+Fortunately, all of these effects are bonuses, so neutralizers or nullifiers can easily shut him down.","Kushala, Tigra, Longshot, The Hood, America Chavez, Nico Minoru"
+Cosmic,Hyperion,"Against Hyperion, the most important thing is to control his power gain. There are 3 ways to control him:
+Using champions with nullification/neutralization, using champions with power steal/drain, or using champions with access to petrify effects.","America Chavez, The Hood, Spiral, Symbiote Supreme, White Tiger, Nico Minoru"
+Mutant,Iceman,"The entire threat of this defender lies in the cold wave that x200 is lethal.
+Therefore, you should always use immune to cold wave against this defender. ⚠️","Ghost, Warlock, Iceman, Colossus, Ironheart, The Serpent"
+Cosmic,Ikaris,"Against Ikaris, it's imperative to not let him use SP2, since this special can become unblockable.
+The best way to control Ikaris is to nullify or neutralize his energize bonuses.
+You should only use Mystics against Ikaris because the other classes take energy damage frequently.","Kushala, Isophyne, Absorbing Man, Shathra, The Hood, America Chavez"
+Science,Invisible Woman,"Invisible Woman has a protection that limits the damage she receives by 90% and becomes invisible when this protection ends or when she's knocked down.
+There are 2 ways to remove the invisibility, using champions with vigilance or champions that purify.","Bullseye, Archangel, Lumatrix, Kingpin, Mole Man, Chee'ilth"
+Tech,Iron Man (Infamous),"Against Iron Doom, it's important to use champions that are immune to power burn and champions that are immune to shock.
+Another effective way to defeat him is to use champions with armor break.
+It's preferable to force him to use Special 2 since Special 1 can be tricky.","Galan, Medusa, Scream, Cosmic Ghost Rider, Thanos (Deathless), Hulkling"
+Tech,Iron Man (Infinity War),"IMIW autoblocks with 4 armor, so it's important to break his armor or use a champion with accurate attack or ability reduction.
+Nullifiers don't work against IMIW. ❌
+When he's at 15% he gains a lot of power passively, you need to pay close attention to this.","Magneto, Thanos (Deathless), Vox, Scream, Void, Karolina Dean"
+Mutant,Jean Grey,"Jean Grey, whenever the Opponent hits her with a critical hit, applies an Exhaustion that reduces the Potency of Critical Damage.
+In addition, Jean Grey has a Force Field that allows her to have an additional Resistance to all types of damage.
+In addition, the greatest danger that this Defender presents is the Inversion of Controls.
+Whenever Jean Grey activates Special Attacks, the Attacker's Controls are Inverted.
+
+How to defeat Jean Grey?
+➤ Against Jean Grey, it's mandatory to use Champions that are Immune to Inverted Controls.
+➤ In addition, since Jean Grey has a Force Field and also reduces the Potency of Critical Damage, it's advisable to use Champions that have access to Secondary Damage Effects.","Jack O'Lantern, Prowler, Ironheart, Mister Sinister, Professor X, The Maker"
+Science,Jessica Jones,"Jessica is dangerous because she becomes unblockable and unbeatable if the opponent uses special attacks.
+Healing effects eliminate her abilities, another way to control her is to use champions with ability reduction.
+It's also advisable not to use special attacks against this defense.","Archangel, Okoye, Valkyrie, Silver Sable, Jabari Panther, Chee'ilth"
+Cosmic,Karolina Dean,"Karolina Dean's main defensive mechanics are Unblockable Specials and Passive Power Gain.
+
+Karolina Dean gains an Unblockable and Power Gain Bonus when within the Iridescent Sun Area.
+
+Against Karolina Dean, champions who block Unblockable Specials have a clear advantage.
+
+Fortunately, Karolina Dean isn't immune to Nullify, Neutralize, Bonus Immunity Effect, or Fate Seal, so any champion with access to these Abilities works well against her.","The Hood, Wiccan, Nico Minoru, Rintrah, Kushala, Symbiote Supreme"
+Mutant,Kitty Pryde,"Against Kitty Pryde, it's important to pay attention to her feats.
+With 3 feats, she becomes invisible during Dashing Attacks and when she's invisible, she reflects the damage received to the attacker.
+It's advisable to use champions that remove feats or that don't land critical hits.","Nimrod, Jack O'Lantern, Iron Man (Infamous), Guardian, Iron Man, Prowler"
+Cosmic,Knull,"The biggest problem Knull has inverted controls. To avoid this, you should force him to use SP2 and not let him use SP1. However, the safest options are champions who are immune to inverted controls.
+Champions who are immune to armor also have some advantage against Knull.","Absorbing Man, Kushala, Wiccan, Doctor Doom, The Destroyer, White Tiger"
+Tech,Lady Deathstrike,"The biggest danger against Lady Deathstrike is that her specials take up a lot of screen space and it's easy to get stuck on walls.
+She also regenerates a large part of the damage from her special moves.","Vox, Cosmic Ghost Rider, Thanos (Deathless), Hulkling, Galan, Medusa"
+Science,M.O.D.O.K.,"This defender has the most frequent access to autoblock in the entire game.
+It's mandatory to use M.O.D.O.K. against attackers with accurate attack, vigilance or reduced abilities.","Archangel, Vox, Falcon, Silver Sable, Mole Man, Magneto"
+Cosmic,Maestro (Cosmic),"Maestro has an extensive KIT of defensive abilities that make this Defender one of the best in the game.
+The main problem with this Defender is that with 10 Neutroniums he gains an Evasion Bonus that prevents all critical hits and offensive abilities.
+In addition, with 30 Neutroniums he applies Energy Damage to the Opponent whenever they are close.
+With 40 Neutroniums he reaches Superior Fury, in this Mode Evasion becomes a Passive Effect and when he casts Specials the Opponent is rooted.
+The trick to killing the Maestro is to kill him before he reaches 40 Neutroniums since no champion is immune to Evasion.
+However, the Attacker's Special Attacks don't suffer Evasion, so champions with a lot of damage in Specials or who have quick access to specials are good answers against the Maestro.
+Another way to counter Maestro is to use champions that reduce his buff duration, such as Mojo or Kindred.
+Champions that can passively gain power or have power steal are great answers against this defender, such as: Sorcerer Supreme, Chavez, Tigra, The Hood, Wong or Symbiote Supreme.","Shathra, Symbiote Supreme, Werewolf By Night, Purgatory, Spiral, The Hood, Vox, Kushala, Nico Minoru"
+Mutant,Magneto,"With the exception of Archangel, Nimrod and Lady Deathstrike, you shouldn't use metals against Magneto. ❌
+You should keep him at SP1 and use champions with energy damage.","Nico Minoru, Human Torch, Jack O'Lantern, Kushala, Sentry, Hulkling"
+Cosmic,Medusa,"Medusa's biggest threat is autoblock, but she only autoblocks when she has 3 furies, so champions with neutralize/nullify will prevent this.
+Another way to stop her is by using champions with true strike.","The Hood, Crossbones, Vox, Rintrah, Longshot, Nico Minoru"
+Science,Mister Fantastic,"Mister Fantastic has a 5% chance to dodge for each non-damaging negative effect active on him or the opponent.
+In addition, if the opponent uses the same special twice, the special will have reduced damage. Against him, you should use purifiers or champions with accurate attacks.","Crossbones, Mole Man, Okoye, Kate Bishop, Falcon, Silver Sable"
+Mutant,Mister Sinister,"Against Sinister, you shouldn't use champions with guaranteed critical hits or that apply negative damage effects to which they are not immune.
+Champions that don't critically hit are good options.
+The safest way to kill him is to use champions with healing block or petrify.","Warlock, Viv Vision, Prowler, Omega Sentinel, Nimrod, Bastion"
+Science,Morbius,"The only danger this Defender poses is that he becomes invisible and unblockable when he dashes forward, and this attack gains +250% attack.
+So getting caught by this attack can be fatal.
+The best way to avoid this problem is to use champions that prevent flinching.
+You should also avoid using ability nullifiers or reducers because this increases the frequency of the psionic flight, which is unblockable and doesn't miss.","Bullseye, Cyclops (Blue Team), Photon, Lumatrix, Okoye, The Serpent"
+Tech,Mysterio,"The most important rule against Mysterio not hit him after his SP1. Because that reflects the damage.
+It's advisable to keep him in SP1 and not hit him for 6 seconds. In SP2 he becomes invisible and still drains power.
+The best answers against him are champions who avoid flinching.","Medusa, Cosmic Ghost Rider, Vox, Hercules, Hulkling, Galan"
+Mutant,Negasonic Teenage Warhead,"Negasonic presents 2 dangers:
+➔ None of her attacks can be stunned with parrying since all of her attacks don't make contact.
+➔ She has a 15% chance to dodge medium or light attacks and at the same time stun the opponent.
+
+How to defeat Negasonic?
+➤ Common champions cannot parry this Defender, however some champions such as Jack'O Lantern, Photon, Angela and Ironheart have the ability to parry attacks that don't make contact.
+➤ In addition, champions must frequently knock Negasonic down to turn off her dodge.","Photon, Angela, Ironheart, Jack O'Lantern, Prowler, Bastion"
+Mutant,Nightcrawler,"It's important to use champions that prevent dodge and are immune to bleed.
+Trying to change his mode is a risky move that can go very wrong.
+This defender's threat comes when he's placed in stun immunity nodes. ⚠️","Ghost, Cyclops (Blue Team), The Serpent, Prowler, Bastion, Solvarch"
+Tech,Nimrod,"Nimrod is an extremely durable champion, so it's important to use champions with direct damage or energy damage (incinerate, shock). It's safer to keep him at SP1, since at SP2 he's unstoppable.
+His armor cannot be removed by armor break but can be dispelled.","Galan, Medusa, Hulkling, The Hood, The Serpent, Human Torch"
+Mutant,Northstar,"Northstar presents 2 dangers:
+➔ When using Special Attacks, it prevents the Attacker from landing Critical Hits for more than 6 seconds.
+➔ Northstar's Specials cost less power and take up a lot of space on the screen, so after some specials, it's common for the opponent to be close to the wall.
+
+How to defeat Northstar?
+➤ To easily defeat Northstar, the ideal is to use champions with access to Damage effects, such as Incineration, Shock, Rupture, among many others.
+➤ In addition, champions with access to power control are also recommended.
+➤ Northstar's SP2 takes a lot of life on block, so it's advisable to keep him on SP1.","Sentinel, Jack O'Lantern, Ant-Man (Future), Nimrod, Prowler, Bastion"
+Cosmic,Nova,"Against Nova, you can't use champions with guaranteed critical hits, because he reduces the damage taken by 70%. ❌
+Nova has an intense power gain, power controllers are good options against him.
+It's also important to cancel out his rages because when they're active he has access to auto-block.","Absorbing Man, Spiral, Doctor Doom, America Chavez, The Hood, Shathra"
+Tech,Omega Sentinel,"The biggest threat to Omega Sentinel is her auto-block, she auto-blocks when she has 5 armor.
+Champions with nullification don't work against her, so there are 3 ways to defeat her. Champions with armor break, champions with defensive ability reduction, or champions with vigilance.","Scream, Knull, Thanos (Deathless), Medusa, Corvus Glaive, Rintrah"
+Mutant,Onslaught,"Onslaught is the best Mutant Defense in the game.
+This is because there are few really safe answers to take him down.
+Against Onslaught the fight cannot be long, otherwise the neuroshock damage can be lethal.
+
+The main dangers of this Defender:
+➤ The first medium or light hit makes no contact (so it cannot be parried)
+➤ Every 10 hits suffered, this Defender's running attack becomes unblockable for 3 seconds
+➤ Whenever it's hit, it has a 15% chance of applying Neuroshock Passive to the opponent
+(no one in the game is immune to this effect) ⚠️. This chance increases on critical hits.
+➤ Onslaught's SP2 reverses the opponent's controls.
+
+How to defeat Onslaught?
+Fights against Onslaught need to be quick, otherwise the Neuroshock damage is too intense.
+The player should always be aware of the Unblockable that he receives every 10 hits, and should also always force SP1.
+Champions that don't Critical Hit are also good options since they receive Neuroshock less frequently.
+Another good solution is to use champions with high energy resistance, the best in this case being Havok.""","Bastion, Jack O'Lantern, Havok, Ironheart, Ant-Man (Future), The Maker"
+Tech,Peni Parker,"Against Peni Parker, the most important thing is to use a champion who is immune to burn/power drain.
+Another way to defeat her is by using champions with high block penetration. You must remove the shield by hitting the block, this way she loses the ability to auto-block for 20 seconds.","Galan, Scream, Hulkling, Adam Warlock, Vox, Gorr"
+Science,Photon,"Photon is one of the most dangerous champions in the game, and one of the ones that causes the most problems in BGs and AW.
+She applies several negative effects to the opponent and for each negative effect she reduces the block proficiency by 27.3%.
+Therefore, blocking attacks against Photon is FATAL!
+In addition, while she's parried she becomes invisible, so it's advisable to use champions that prevent flinching.
+When she reaches 15 Electromagnetic Charges she enters Pure Light Form. While this Mode is active, Specials become Unblockable and Dexterity Proficiency is disabled.
+The most effective way to control Photon is to inhibit the gain of Electromagnetic Charges. To do this, it's necessary to use champions that Reduce Defensive Abilities or that have access to Tranquilization.
+Another way to survive Photon is to use champions that block Unblockable Specials.","Crossbones, Patriot, Mantis, Silver Sable, Dazzler, Lumatrix, Shuri, Silk, Okoye"
+Mutant,Professor X,,"Human Torch, Omega Sentinel, Ironheart, Prowler, The Serpent, Cyclops (Blue Team)"
+Science,Quicksilver,"Quicksilver is a very annoying defender, first because his animations are quite unpredictable, and second because he dodges frequently and deals whip damage.
+The best way to control this defender is to use champions with anti-dodge mechanics or those that purge.","Okoye, Kate Bishop, Mole Man, Kingpin, Falcon, Crossbones"
+Tech,Red Skull,"If Red Skull has active armor, hitting his block applies Direct Damage to the Attacker.
+Red Skull is immune to nullification, so all mystical counters no longer work.
+In addition, for each active armor on him, the Opponent suffers -10% Stun Ability Accuracy, meaning it is very difficult to parry him.
+
+How to defeat Red Skull?
+The most important thing when fighting Red Skull is to remove armor, and for this, champions with Armor Break are the best options.
+In addition, if you use SP1, Red Skull activates a Self-Block Passive for 3 seconds and if you use SP2, you become Unstoppable.
+Champions with access to Armor Break are the most effective.
+Knull is also an option because he converts his armor into Living Abyss Debuffs.","Medusa, Scream, Gladiator, Corvus Glaive, Vox, Kushala, Thanos (Deathless), Beta Ray Bill, Karolina Dean"
+Science,Sandman,"The only danger this defender poses is that he becomes passively unstoppable when he reaches 20 Resistance charges.
+However, to remove Resistance, all you need to do is land a critical hit or apply shock, poison, or bleed with a skill champion. Purifiers also have an advantage against him.","Yelena Belova, Dust, Falcon, Hit-Monkey, Kingpin, Crossbones"
+Mutant,Sauron,"Against Sauron, using feat removers is almost mandatory. Without feat removers, you need to pay attention to the unblockable attacks that will be present for most of the fight.
+You should force his SP2.
+Champions that block unblockable special attacks are also good options.","Nimrod, Iron Man, Warlock, Viv Vision, Lady Deathstrike, Bastion"
+Science,Scorpion,"Scorpion's defense uses a stinger in the form of poison and also frequently dodges.
+It's advisable to use champions that are immune to poison or that avoid dodging against him.
+Champions that reduce abilities or purify also work. it's preferable to force SP2.","Archangel, Kate Bishop, Mole Man, Okoye, Cyclops (Blue Team), Crossbones"
+Tech,Sentinel,"This Defender needs very specific responses, otherwise the fight will drag on for a long time, either due to resistances or the 2nd life.
+
+The main dangers of this Defender:
+➤ Throughout the fight, the Sentinel gains Analysis Charges, which grant him Armor and a Massive Critical Resistance that reduces the Chance of landing a Critical Hit by 57.6%.
+➤ In addition, with 100 Analysis Charges, Special Attacks cost 30% less Power.
+➤ When he reaches 20% life, the Sentinel gains 3 Armor Bonuses that last 3.5 seconds. If these Bonuses expire, the Sentinel gains 89% of his Maximum Power.
+➤ If the Sentinel uses Special 3, then he recovers 100% of his Total Health, thus entering 2nd Life.
+➤ If the Opponent blocks a Special 2 from the Sentinel when he has 100 Analysis Charges, then he suffers Incineration Debuffs.
+
+How to defeat the Sentinel?
+Against the Sentinel, it's mandatory to use Secondary Damage Effects, with Shock, Incineration, Powerful Sting, Degeneration and Rupture being some of the best.
+Champions with access to Fragmentation (reduces critical resistance to 0) also have a great advantage against the Sentinel.
+It is also advisable to use champions with access to power control, either through Petrify or through Power Steal or Drain.
+Since SP2 can apply Incinerate, it's also advisable to keep the Sentinel on SP1.","Void, Prowler, Spider-Ham, Beta Ray Bill, Okoye, The Hood, Vox, Shathra, Karolina Dean"
+Cosmic,Sersi,"Sersi is one of the most powerful cosmic defenders in the game. Her specials are unblockable, she has constant access to evasion/glancing that prevents offensive abilities from working, and she also has access to regeneration and power gain.
+To control Sersi, it's mandatory to use champions that cancel or neutralize bonuses.","Shathra, Rintrah, Kushala, The Hood, Longshot, Nico Minoru"
+Tech,Shocker,"Against Shocker, you shouldn't use SP1 and SP2 because he has a special auto-block mechanic.
+When he runs forward, he becomes unblockable, so you need to be very careful about that.
+You need to be careful with SP1 because this special can become unblockable and stuns.","Hulkling, Adam Warlock, Vox, Galan, The Serpent, Thanos (Deathless)"
+Tech,Shuri,"Shuri is the only champion in the game who has all of her basic attacks as non-contact attacks.
+Because of this, few champions can parry Shuri and stun her. It's advisable to use champions who parry non-contact attacks and use champions who avoid flinching.","Galan, Human Torch, Photon, Angela, Thanos (Deathless), Karolina Dean"
+Science,Spider-Gwen,"The only danger this defender poses is dodging.
+The solutions are champions with accurate attacks or champions that reduce defensive abilities.","Okoye, Mole Man, Falcon, Iceman, Venom, Cyclops (Blue Team)"
+Science,Spider-Ham,"This is a defender who frequently dodges, reduces the opponent's attack through SP1 taunts and also applies stings, making it impossible for the opponent to use specials.
+Against him, you should use champions that prevent dodging or reduce abilities.","The Serpent, Crossbones, Venom, Mole Man, Falcon, Okoye"
+Science,Spider-Punk,"This is a Defender that is quite easy to take down, but needs a response that avoids Dodge.
+Whenever this Defender is Intercepted with a Light or Medium Attack, he has a 100% chance to Dodge and Stun the Opponent for 2 seconds.
+In addition, he should be kept in SP1, since SP2 applies Breaks through Block.","Venom, Okoye, Crossbones, Mole Man, Kate Bishop, The Serpent"
+Science,Spider-Woman (Jessica Drew),"Spider-Woman brings a new Defensive mechanic that can be a problem.
+She has access to the Severe Hindering Debuff.
+This Effect disables Dexterity Proficiency during Special Attacks.
+In addition, this Effect cannot be Purified.
+Spider-Woman has a higher probability of activating SP1, and this Special activates Powerful Sting if blocked. This prevents the Opponent from activating Special Attacks.
+In addition, for each Debuff present on the Attacker, Spider-Woman has a 2% Dodge Chance, making it mandatory to use Dodge Counters against her.","Okoye, Crossbones, Bullseye, Iceman, The Serpent, Falcon"
+Science,Spot,"In addition to becoming invisible, Spot also applies instant burst damage to the opponent whenever they miss a hit.
+The best way to control Spot is to use champions with defensive ability reduction.
+Champions with vigilance or anti-flinch mechanics work but continue to suffer burst.","Archangel, Black Cat, Blade, Bullseye, Lumatrix, Silver Sable"
+Mutant,Storm (Pyramid X),"The most problematic feature of Storm X's kit is that she has a 60% chance to Evade, except against special attacks. Evasion reduces offensive abilities and prevents critical hits.
+Against Storm X should be used champions that remove prowess and drain power.","Lady Deathstrike, Viv Vision, Warlock, Prowler, Nimrod, Bastion"
+Mutant,Stryfe,"Against Stryfe, it's advisable to use champions that don't hit critical hits, as this doesn't feed his charges.
+This defender has the ability to evade/glancing, which prevents offensive abilities.
+Champions that avoid flinch are safe options against this defender.","Nimrod, Shocker, Cyclops (Blue Team), Human Torch, Ironheart, The Serpent"
+Cosmic,Super-Skrull,"Against the Super Skrull, nullifiers are the best answer. You have to be careful with the power gain and the flinch effect that appears every 25 seconds. Power controllers work well against him.
+You shouldn't let the Skrull use SP2, this special can be lethal even if blocked. ❌","Kushala, America Chavez, Spiral, The Hood, Galan, Nico Minoru"
+Cosmic,Terrax,"While Terrax's rock aura is active, the energy damage the enemy takes is intense.
+Against Terrax, it's very important to use champions with energy resistance and who are immune to armor break.
+Non-metal champions that drain power are also good options.","Absorbing Man, Count Nefaria, Wiccan, Diablo, The Hood, Shathra"
+Cosmic,Thanos (Deathless),"This cosmic Defender's main dangers are the Unstoppable Passive, a very high rate of power gain, and Protection.
+It's necessary to follow a series of rules to take down this Defender easily.
+
+The main dangers of this Defender:
+➤ Thanos gains Necrotic Energy whenever he attacks or is attacked, which causes him to gain an Unstoppable Passive that activates if he is hit in the Block.
+Therefore, one of the main rules is to Avoid Hitting in the Block, since Thanos retaliates immediately.
+Thanos also becomes Unstoppable Passively when he reaches the 3rd Counterattack Passive.
+➤ In addition, Thanos' Combat Power Rate is permanently increased by 15%, and for each Necrotic Energy it increases by another 1%. In other words, it's possible for Thanos to reach +75% Combat Power Rate.
+This causes Thanos to fill up his Specials extremely quickly, and he gets very close to SP2 very often.
+➤ Thanos' SP2 is very dangerous, because it cannot be blocked, since this special reduces Block Proficiency by 80%. In addition, dodging twice in 0.75 seconds applies Instant Corrosion to the Opponent.
+
+How to defeat Deathless Thanos?
+➤ Champions that avoid Unstoppable are the best answers, with the best ones being Dust, Beta Ray Bill and Chee'ith.
+➤ Champions with Power Control are a great option, since they easily avoid Thanos' SP2
+➤ Champions with access to Nullification remove the Energization Buff, avoiding the problem of increased Combat Power Rate.
+➤ Since Thanos constantly uses Specials, champions with Stinger are also a great answer.","Symbiote Supreme, Beta Ray Bill, The Hood, Spider-Ham, Chee'ilth, Kushala, Dust, Nico Minoru, Red Guardian"
+Cosmic,The Champion,"Against the Champion, the most important thing is to control his unstoppable. To do this, simply use champions with nullification/neutralization.
+Another way is to use champions with slowing effects.","The Hood, Kushala, Purgatory, Tigra, Symbiote Supreme, Nico Minoru"
+Science,The Leader,"This Defender has some obstacles, all of his abilities are centered around Debuffs.
+Whenever he's attacked with Light Attacks, the Leader applies Spectre and Fade Debuffs.
+The Leader's Debuffs cannot be eliminated by Purification or Heal Effects.
+In addition, for each Debuff present on the Opponent, the Leader reduces all Damage he receives by 3% or 4% against Skill Champions. This makes the Leader a very resistant Defender.
+The Leader gains charges throughout the fight, when it reaches 100 he opens the Green Door, while the Opponent is close to the Green Door he suffers Degeneration.
+This Degeneration becomes stronger depending on the Debuffs present on the Opponent.
+Therefore, against the Leader, fights cannot be prolonged, the ideal is to use Champions that apply Bleed or have access to Armor Break.","Chee'ilth, Kate Bishop, Lumatrix, Mole Man, Falcon, Okoye"
+Tech,The Maker,"The Maker poses a defensive threat thanks to the Plasma Mine he activates with SP1.
+The Plasma Mine deals Energy Damage to the Opponent.
+In addition, whenever he dodges, he passively stuns the Opponent.
+
+How to defeat The Maker?
+The Maker starts the fight with a Special Evade Charge; to deactivate this charge, the Attacker must use a Heavy Attack.
+Furthermore, when The Maker uses SP1, he activates the Plasma Mine, and whenever the Opponent passes through this Mine, they take Instant Energy Damage.
+Ideally, the Opponent should move away from this Mine to avoid taking unnecessary damage.
+However, Champions with Energy Resistance take less damage from the Mines.","The Serpent, Mole Man, Okoye, Medusa, Bastion, Red Guardian"
+Science,The Overseer,"Against the Overseer, you should keep in mind that he's immune to stun and also self-blocks immediately after using any special.
+The best answers against him are champions with accurate attacks or ability reducers.","Medusa, Lumatrix, Mole Man, Black Cat, Hulkling, Vox"
+Cosmic,The Serpent,"The Serpent, like the Maestro, is a Cosmic Defender with a Kit that greatly restricts the number of safe responses:
+Power Gain, Piercing, Immortality, Specials that cannot be Dodged, and Very High Resistance.
+The main dangers of this Defender:
+➤ At the beginning of the Fight and every 8 seconds, the Serpent gains a Power Gain Bonus that grants him 25% of his Maximum Power.
+➤ Throughout the Fight, the Serpent gains Resistance to Physical and Energy Damage.
+➤ When activating Special Attacks, he becomes unblockable on the first hit and the Special deactivates Dexterity Proficiency, so he cannot be Dodged.
+➤ When he's close to being knocked down, The Serpent becomes Immortal for 8 seconds and gains power passively.
+➤ The Serpent is Immune to Fate Seal and Death Immunity cannot be Nullified.
+
+How to defeat the Serpent?
+Most common Mystics don't work against The Serpent, this is because Nullification, Fate Seal or Power Drain effects are not effective against him.
+Against the Serpent, you should use these types of Abilities:
+➤ Power Steal ➔ He's not immune to power steal and this is the most effective way to control this champion.
+➤ Neutralize ➔ Neutralize effects work and turn off this Defender's Buffs
+➤ Buff Duration Reduction ➔ Champions like Mojo or Kindred reduce Buff Time by up to 90%, minimizing the danger that this Defender can present.
+➤ Bonus Immunity Effects ➔ Claire Voyant can make Serpent immune to his own Bonuses, so he doesn't gain power or become immortal.","Symbiote Supreme, Kushala, White Tiger, Isophyne, America Chavez, Spiral, Count Nefaria, Shathra, Nico Minoru"
+Science,Thing,"Thing is one of the most resilient defenders in the game. He becomes unstoppable whenever he hits more than 15 stones.
+The best way to control him is to use champions that reduce defensive abilities.
+Since he limits physical damage, it's advisable to use champions with secondary damage.","Crossbones, Black Cat, Falcon, Jack O'Lantern, Kate Bishop, Vox"
+Mutant,Toad,"Against Toad, you should use champions that are immune to poison, that are feat removers or that have a healing block.
+It's possible to defeat Toad without blocking the healing, but in this case you shouldn't push Toad against the wall.
+You should never use skill champions against Toad. ❌","Nimrod, Lady Deathstrike, Warlock, Omega Sentinel, Viv Vision, Bastion"
+Cosmic,Vision (Aarkus),"Vision Aarkus's biggest threat is his cold snap damage. There are three possible solutions to Aarkus.
+Use nullifiers because when you lose the power gain, you lose the cold snap ability. Another solution is to use champions that are immune to armor break or champions that are immune to cold snap.","Absorbing Man, The Destroyer, Doctor Doom, Isophyne, The Hood, Nico Minoru"
+Tech,Viv Vision,"Viv Vision constantly drains the attacker's power, so it's important to use champions that are immune to power drain against her.
+Her SP1 deals massive incineration damage, so to avoid this the solution is to force her SP2 or use champions that break armor.","Hulkling, Vox, Magneto, Thanos (Deathless), Galan, America Chavez"
+Science,Void,"Void deals direct damage if the attacker suffers any negative effects.
+Therefore, against Void, you should use champions with purification or abilities that reduce abilities.","Crossbones, Okoye, Chee'ilth, Mole Man, Lumatrix, Yelena Belova"
+Tech,Warlock,"There are 3 effective solutions against Warlock: Use champions with many different bonuses (at least three).
+Use champions immune to shock and armor break or use Robots.
+Another way to avoid degeneration is to remove the Willpower proficiency.","Cosmic Ghost Rider, Medusa, Scream, Vox, Hulkling, Thanos (Deathless)"
+Science,Wasp,"Against Wasp, you should use champions that prevent dodging, either through accurate attacks or through skill reduction.
+Another way to control her is to force her heavy, since dodging goes on cooldown for a few seconds.","Okoye, Kate Bishop, Cyclops (Blue Team), Killmonger, Mole Man, Bastion"
+Mutant,Wolverine (Weapon X),"Against Weapon X, you should use champions that block healing or have good secondary damage.
+Petrify and healing manipulation don't work against this defender. ❌
+The defender remains unblockable and unbeatable for most of the fight, so it's important to pay close attention to this.","Lady Deathstrike, Warlock, Nimrod, Omega Sentinel, Yondu, Nico Minoru"
+Mystic,Magik,"Magik's biggest threat is Limbo's intense damage. Limbo is energy damage.
+To avoid Limbo, you can use ability reduction or champions with high energy resistance.","Blade, Quake, Archangel, Guardian, Count Nefaria, Omega Red"
+Mystic,Mordo,"Against Mordo, you need to be careful with his passive power gain, and you can't hit him while he's stunned, as he'll dodge the attack.
+The best options against Mordo are power wielders or champions with access to petrify.","Doctor Doom, Luke Cage, Count Nefaria, Titania, Spider-Man 2099, The Hood"
+Mystic,Dormammu,"Dormammu turns expiring buffs into decay. The best counters against Dormammu are buff-immune champions.
+In addition to these champions, you can use ability reducers.","Silk, Spider-Man 2099, Titania, Count Nefaria, Spider-Ham, Red Guardian"
+Mystic,Mephisto,"Against Mephisto, it's essential to use champions immune to incineration.
+However, Mephisto's passive power gain is very high, so using champions with petrify or at least power control is important.","Void, Blade, Human Torch, Count Nefaria, Red Hulk, Titania"
+Mystic,Ebony Maw,"Against Ebony, you can't use champions with guaranteed critical hits, otherwise he'll apply degeneration. ❌
+Champions immune to buffs are the solution against Ebony. To avoid flinching, you should use heavy attacks frequently.
+Champions with anti-flinching mechanics are also recommended. It's best to keep him on SP1.","Silk, Count Nefaria, Prowler, Titania, Red Guardian, Photon"
+Mystic,Man-Thing,"Man-Thing completely limits the damage from critical hits, making him a very resilient champion.
+Furthermore, throughout the fight, he applies pustule bonuses that transform into armor break and poison.
+Against him, champions immune to poison and with direct secondary damage should be used.","Titania, Hulk, Spider-Woman (Jessica Drew), Cassie Lang, She-Hulk (Deathless), The Leader"
+Mystic,Doctor Doom,"Doom has the highest critical resistance in the game. Furthermore, when he uses his SP1, he becomes unblockable, nullifying and transforming bonuses upon contact with the attacker into shocks.
+Against Doom, you should use champions with secondary damage and those with petrify, as this severely limits his abilities.","Human Torch, Photon, Silk, Void, Spider-Woman (Jessica Drew), Luke Cage"
+Mystic,Longshot,"Longshot passively nullifies the opponent's bonuses; it should be used against champions immune to bonuses.
+Furthermore, when using SP2, it passively incinerates the opponent even if SP2 doesn't make contact.
+Because of this, it's important to use attackers immune to incineration or nullification against it.","Human Torch, Kushala, Prowler, Count Nefaria, Void, Titania"
+Mystic,Mojo,"Mojo turns buffs into degeneration and simultaneously gains passive power.
+To avoid this, use champions immune to buffs or with high ability reduction.
+It's advisable to use champions with Petrify and keep Mojo on SP1.","Titania, Count Nefaria, Spider-Man 2099, Cassie Lang, Silk, Red Guardian"
+Mystic,Sasquatch,"Sasquatch is the champion with the most health in the game, he regenerates a lot, and he also has a damage prevention mechanic that increases throughout the fight.
+He also has the ability to become passively unstoppable.
+Against this defense, you should use champions with poison damage, petrify damage, or ability reductions.","Human Torch, She-Hulk (Deathless), Spider-Woman (Jessica Drew), Luke Cage, Silk, Count Nefaria"
+Mystic,Dragon Man,"Dragon Man passively gains power for much of the fight. Furthermore, if he uses SP3, he corners the opponent, becoming unstoppable and unblockable. Against him, you should use champions with Petrify or Power Control.
+You can't use champions that break armor because he applies degeneration. ❌","She-Hulk (Deathless), Titania, Spider-Woman (Jessica Drew), Void, Silk, Count Nefaria"
+Mystic,Mangog,"Mangog poses a threat due to its passive, unstoppable, and unblockable power gain.
+His SP2 can be fatal, so it's highly recommended to keep it at SP1 throughout the fight.
+Against Mangog, champions with Petrify or Power Control should be used.","Count Nefaria, Luke Cage, Silk, Void, Spider-Woman (Jessica Drew), She-Hulk (Deathless)"
+Mystic,America Chavez,"Chavez is a defense that doesn't forgive a single mistake. Besides the passive power boost, her SP2 becomes unblockable, and being hit with this special usually ends the fight. She also has reverberation that reflects damage.
+Against Chavez, it's mandatory to use champions with power control or ability reduction.","Red Guardian, Void, Silk, She-Hulk (Deathless), Prowler, Quicksilver"
+Mystic,Wong,"Wong gains power while charging heavily and becomes passively unstoppable.
+He also becomes unstoppable when the opponent activates buffs, so buff-immune champions are the solution.
+He should also be used heavily when he has 90 Eldritch Energy charges to prevent the burst of damage.","She-Hulk (Deathless), Red Guardian, Silk, Cassie Lang, Titania, Void"
+Mystic,Rintrah,"Rintrah is one of the most resilient and health-rich champions in the game.
+To prevent him from activating his unstoppable passive effects, you should use a heavy attack frequently.
+He converts buffs into bursts, so it's important to use champions immune to buffs or ability reducers.","Spider-Woman (Jessica Drew), Cassie Lang, Silk, Spider-Ham, Titania, Photon"
+Mystic,Wiccan,"Wiccan converts bonuses into incineration, so you should always use champions immune to incineration against him.
+Furthermore, you can never shock Wiccan because he degenerates the opponent. ❌","Void, Titania, Human Torch, Count Nefaria, Prowler, Red Guardian"
+Mystic,Spider-Man (Supreme),"Spidey Supreme becomes invisible when the opponent activates buffs, but the worst part is that he applies buffs to his opponent himself.
+He also gains power passively, and his SP2 deals a burst of damage if blocked.
+Against this defense, you should use champions who are immune to buffs or have anti-failure mechanics.","Titania, Red Guardian, Spider-Man 2099, Ant-Man, Human Torch, Photon"
+Mystic,Absorbing Man,"Absorbing Man requires a specific counter because his regeneration is very intense.
+He shouldn't be allowed to use his SP2 twice, because if he does, he'll incinerate the opponent.
+It's recommended to use heavy attacks after his special attacks and use champions with poison or petrify.","Human Torch, Silk, Count Nefaria, The Leader, Void, Spider-Woman (Jessica Drew)"
+Mystic,Kindred,"Against Kindred, the trick is to hit him quickly while he's recovering from a SP.
+This pauses Infestation Charges for 8 seconds.
+If Kindred reaches 50 Infestation Charges, he activates Nightmare Outbreak, which causes Degeneration on the opponent when they're nearby.
+Spider-Verse champions pause Infestation Charges longer, giving them an advantage.
+Kindred becomes immortal and roots the opponent when they reach 5% health.
+To deactivate these two effects, you must use a special attack.
+Champions with Degeneration Resistance or non-contact moves are the best counters against this powerful defender.","Luke Cage, Mister Negative, Titania, Spider-Woman (Jessica Drew), Spider-Ham, Silk, The Hood, Count Nefaria"
+Mystic,Werewolf By Night,"The Werewolf in the Night's main threats are its passive power gain and its Unstoppable effect when performing a Terrifying Howl.
+Furthermore, its Specials cover a large screen, and blocking these Specials causes the Opponent to be Ruptured.
+Against this Defense, Power-Controlling and Rupture-Resistant champions should be used.","Silk, She-Hulk (Deathless), Red Guardian, Lumatrix, Spider-Punk, Titania"
+Mystic,The Destroyer,"The Destroyer becomes Unstoppable when it dashes toward the Opponent.
+The final hits of Special Attacks 1 and 2 are passively unblockable.
+If the Opponent gains a Buff, the Destroyer retaliates with Burst Damage when hit.
+Against the Destroyer, it's best to use Buff-Immune champions and preferably champions with some Power Control. Since SP2 is Unblockable and the dexterity of this special is quite difficult, it's best to keep it on SP1.","Silk, Count Nefaria, Luke Cage, Spider-Woman (Jessica Drew), She-Hulk (Deathless), Titania"
+Mystic,Enchantress,"The Enchantress is the best Mystic Defense in the game.
+She brings several new mechanics and requires a very specific set of actions, otherwise the Opponent suffers a Direct Damage Reflection that is immensely punishing.
+
+To defeat the Enchantress, you must Remove her Spells before she casts her SP1.
+
+The main dangers of this Defender:
+➤ For each Spell present on the Enchantress, she blocks 20% of all Damage Taken!
+➤ If the Enchantress has a Spell active when she uses a Special, all the Prevented Damage is returned to the Attacker as Direct Damage. 💀
+➤ At the start of each fight, the Enchantress already has 3 Spells, meaning she stores 60% of all damage she takes, and if she casts a Special, she returns that damage to the Opponent.
+➤ When using Specials, the Enchantress can apply Passive Damage Effects such as Incinerate, Cold Snap, and Shock; these effects also activate through Block. 🔥 ❄️ ⚡️
+
+How do you defeat the Enchantress? 🧠
+➤ To defeat the Enchantress, it is mandatory to REMOVE SPELLS.
+➤ The Enchantress has 3 types of Spells: Summoning + Transmutation + Enchantment.
+➤ Each Spell requires a specific action to be removed!
+
+Summoning Spell ✴️
+➤ When the Enchantress gains this Spell, she becomes Unstoppable whenever she dashes forward.
+➤ To remove this spell, you must Intercept the Enchantress ⛔
+
+Transmutation Spell 👻
+➤ When the Enchantress gains this Spell, she gains a passive Flinching Effect.
+➤ To remove this spell, you must Interrupt the Enchantress's Heavy ⛔
+
+Enchantment Spell 👻
+➤ When the Enchantress gains this Spell, she applies a Neutralization and Atrophy Passive. 🗡️❌⏰
+➤ To remove this spell, you must Knock the Enchantress Down ⛔","Sentry, Red Guardian, Luke Cage, Spider-Ham, Titania, Falcon (Joaquín Torres), Silk, Count Nefaria, Spider-Woman (Jessica Drew)"
+Mystic,Spiral,"Spiral's only defensive mechanic is Dancing Blades, which it activates whenever it activates a Special Attack.
+As soon as it launches a Special, for the next 10 seconds, if the opponent attacks it with a second Light Attack, they are passively Stunned for 2 seconds.
+Therefore, the attacker should avoid hitting Spiral, or if they do hit, use Medium or Heavy Attacks.
+Using Stun-Immune Champions is another good solution against Spiral.","Silk, Count Nefaria, Photon, Spider-Woman (Jessica Drew), She-Hulk (Deathless), Titania"
+Mystic,Nico Minoru,"Nico Minoru's main defensive mechanics include the Bonus Immunity Effect, Invisibility, and Direct Energy Damage.
+Against her, it's mandatory to use specific counters, that is, Poison-Immune Champions that aren't Cosmic.
+Also, it's MANDATORY to always dodge her SP1.
+
+The main dangers of this Defender:
+
+Bonus Immunity Effect
+➤ Nico Minoru places a Bonus Immunity Effect at the start of each fight. This effect lasts 11 seconds and prevents any Bonuses from activating.
+If a Champion attempts to activate a Bonus and is prevented from doing so, Nico Minoru applies Poison or Acid Burn (against Poison-Immune Cosmics).
+So, against her, it's best to use a Poison-Immune Champion that isn't Cosmic.
+If the Attacker isn't Poison Immune, another strategy is to wait for the Bonus Immunity Effect to expire and then force only Nico Minoru's SP1, since SP2 reapplies the Bonus Immunity Effect.
+
+SP1
+➤ Special 1 is Nico Minoru's biggest threat.
+The Final Blow of SP1 deals Direct Energy Damage to the Opponent, and this damage is also activated by Block.
+Therefore, when Nico Minoru uses SP1, it is MANDATORY to dodge this special.
+It's recommended to force Nico Minoru's SP2, as it is easier to Dodge and doesn't deal Direct Energy Damage.
+
+Invisibility
+➤ When using SP1, Nico Minoru becomes Invisible for 4 seconds immediately after the Special; this should be taken into account.","She-Hulk (Deathless), Warlock, Spider-Woman (Jessica Drew), Joe Fixit, Sentinel, Hulk"
+Skill,Kingpin,"The main rule against Kingpin is to not let him reach 2 bars of power, as SP2 gives him a long-lasting unstoppable effect.
+Negative effects are also discouraged, as the purification chance is 60%.
+Champions with anti-purification mechanics should be used or White Magneto should be used pre-fight.","Cyclops (Blue Team), Dazzler, Bishop, Negasonic Teenage Warhead, Gentle, Deadpool (X-Force)"
+Skill,Killmonger,"Killmonger has 20% critical resistance, gains power when debuffs are applied, and deals damage back to the opponent when hit.
+The best way to prevent these abilities is to use champions with armor break or ability reducers. Breaking his armor prevents the reverberation and power gain.","The Hood, Thanos (Deathless), Prowler, Dazzler, Negasonic Teenage Warhead, Medusa"
+Skill,Korg,"Korg has damage prevention mechanics, a high chance of purification, access to unstoppable and unblockable attacks, and also deals damage to the opponent when hit by medium or special attacks.
+Against him, you should use champions with energy attacks or champions with resistance to physical damage.","Bishop, Kushala, Negasonic Teenage Warhead, Dazzler, Prowler, Onslaught"
+Skill,Nick Fury,"When hit, Fury gains tactical charges; when he reaches 15, he becomes unblockable. He also has two lives, and on his second life, he gains +300% attack.
+Mutant champions are mandatory against Fury because they reduce the chance of gaining tactical charges. Skill-reducing champions also prevent tactical charges.","Archangel, Deadpool (X-Force), Dani Moonstar, Cyclops (Blue Team), Toad, Jean Grey"
+Skill,Mole Man,"The first 20 negative effects applied to Mole are purified, giving him Monstrous Mass.
+With Monstrous Mass, he becomes unstoppable whenever he's hit in his block. The main rules against Mole are to avoid hitting his block and to use champions with anti-purification mechanics.","Negasonic Teenage Warhead, Onslaught, Bishop, Deadpool (X-Force), Jean Grey, Gentle"
+Skill,Hit-Monkey,"Hit Monkey is an easy defense if you follow one rule: never knock him down.
+When knocked down by a heavy or special attack, he dodges and purifies.
+So, just avoid knocking him down to avoid these two abilities.","Dazzler, Prowler, The Serpent, Okoye, Cyclops (Blue Team), Negasonic Teenage Warhead"
+Skill,Jabari Panther,"Jabari gains healing effects, allowing her to constantly purify. Furthermore, throughout the fight, she gains Huntress charges; at 10, she prevents the opponent from using Dexterity and becomes immune to stuns.
+Champions with Prowess should be used (this removes Huntress charges) or White Magneto's pre-fight.","Storm, Dazzler, Bishop, Onslaught, Prowler, Negasonic Teenage Warhead"
+Skill,Kraven,"Kraven was the first champion to have a root in the game. He gains access to the root when activating his SP1.
+To avoid this effect, you must always force SP2.
+If he applies the root, you must use a special attack to remove the effect. Ability reducers also prevent the root.","Archangel, Dazzler, Domino, Deadpool (X-Force), Cyclops (Blue Team), Thanos (Deathless)"
+Skill,Misty Knight,"Misty has two types of charges: Cryogenic and Anti-Metal. Cryogenic charges purify her, and anti-metal charges give her a dodge chance.
+Against Misty, champions with anti-dodge and anti-purify mechanics should be used. She also becomes unblockable, so it's advisable to always force only SP1.","Iceman, Dazzler, Cyclops (Blue Team), Okoye, Prowler, Negasonic Teenage Warhead"
+Skill,Attuma,"Whenever Attuma is hit, he has a 15% chance to deal physical damage to the opponent. Additionally, whenever he is parried, he purifies and enhances his defensive abilities.
+The best way to take down Attuma is to avoid parrying him and always force SP1. Champions with resistance to physical damage also have an advantage.","Shuri, Dazzler, Jean Grey, Negasonic Teenage Warhead, Onslaught, Namor"
+Skill,Mantis,"The only real threat this defense poses is the Sleep Invasion Passive. It applies this effect using SP1.
+To remove Sleep Invasion, the opponent must use a special attack while they have an active prowess.
+If the opponent simply forces SP2, they will never have to deal with this passive effect.","Bishop, Negasonic Teenage Warhead, Toad, Jean Grey, Archangel, Dazzler"
+Skill,Baron Zemo,"Against Baron Zemo, you shouldn't apply debuffs. After purifying 5 debuffs, Zemo roots the opponent.
+Therefore, it's best to force his SP1 and never apply any debuffs.
+Passive ability debuffs are another great solution against Zemo.","The Hood, Hulkling, Dazzler, Negasonic Teenage Warhead, Prowler, Gentle"
+Skill,Kate Bishop,"When Kate Bishop is stunned, she purifies the effect, dodges, and stuns the opponent. Therefore, against her, you should use champions with anti-dodge abilities or any other champion, but never parry her.
+It's also advisable to only force SP1, as missing the SP2 dodge is fatal.","Cyclops (Blue Team), Hulkling, Iceman, Dazzler, Gentle, The Serpent"
+Skill,Moondragon,"Moondragon deals energy damage when it hits an opponent in block. Additionally, when using SP1, it becomes invisible for 3 seconds. It also has the ability to purify.
+Against Moondragon, the trick is to push her against the wall and force SP1. Champions with energy resistance also have an advantage.","Cyclops (Blue Team), Negasonic Teenage Warhead, The Serpent, Dazzler, Hulkling, Domino"
+Skill,Chee'ilth,"Chee'ilth periodically gains healing effects, so she purges debuffs frequently.
+She also has block penetration and can land critical hits through block.
+She also has the ability to apply bleed through block, so using champions that are immune or resistant to bleed is crucial.","Dazzler, Dust, Iceman, Gentle, Negasonic Teenage Warhead, Prowler"
+Skill,Bullseye,"Bullseye is an opponent who truly punishes every time he activates a dodge.
+When he dodges, he immediately activates a special attack.
+Furthermore, all of his hits are guaranteed critical hits.
+
+How to defeat Bullseye?
+Bullseye's dodge effects cannot be prevented by ability reductions, so not even slow effects work against this defender. ⚠️
+Bullseye bleeds the opponent during specials and also when the opponent dodges a hit, so it's really important to use someone who is immune or resistant to bleed.
+To prevent the dodge, you can use champions with access to True Strike or champions with passive anti-dodge abilities, such as Professor X, Cyclops, Bastion, or Apocalypse.
+Another way to avoid the dodge is to use champions with access to Cold Snap.","Iceman, Onslaught, Dust, Kushala, Mister Sinister, Cyclops (Blue Team), The Serpent, Warlock, Gentle"
+Skill,Black Panther (Civil War),"BP CW's greatest threats are stun reflection and damage reflection.
+To avoid these two mechanics, you cannot stun Black Panther CW under any circumstances.
+Furthermore, you shouldn't use heavies against him, as he becomes passively unstoppable and retaliates.
+Against this champion, it's ideal to use champions with access to passive stun, so he doesn't reflect the stun.
+Champions with access to anti-unstoppable mechanics are also a great answer.","Dazzler, Beta Ray Bill, Negasonic Teenage Warhead, Chee'ilth, Dust, The Hood, Onslaught, Bishop, Storm"
+Skill,Lumatrix,"Lumatrix's main defensive mechanics are Evasion and Invisibility.
+Furthermore, his Critical Chance is extremely high, so any mistake against him can be fatal.
+Currently, Lumatrix has few truly reliable answers.
+
+How to defeat Lumatrix?
+Whenever Lumatrix charges a Heavy Attack, he gains an Evasion Charge for 2 seconds.
+If Lumatrix evades, he becomes Invisible and also Passively Stuns the opponent.
+Therefore, it's mandatory to use champions that prevent his Evasion.
+Furthermore, Lumatrix has Fractured Power Bars, meaning that even if he fills 2 Power Bars, he can still use SP1. This makes him even more unpredictable as a Defender.
+If Lumatrix uses his SP1, he gains an Invisibility Passive.","Cyclops (Blue Team), Iceman, The Serpent, Okoye, Cassandra Nova, The Hood, Professor X, Jean Grey, Bullseye"
+Skill,Yelena Belova,"Yelena Belova is a very punishing Defender.
+In Observation Mode, she reduces the opponent's Attack and the Potency of their Critical Damage. She also has a Reversal Mechanic that, when activated, deals intense Direct Damage.
+Very few champions in this game perfectly counter Yelena Belova.
+
+The main dangers of this Defender:
+
+Observation Mode 👀
+➤ At the start of the fight and whenever in Observation Mode, Yelena Belova reduces the Opponent's Attack by 60% and the Power of their Critical Hit Damage by 50%.
+This makes Yelena Belova a very resilient Defender.
+
+➤ Yelena Belova increases her Combo Meter based on the Attacker's actions:
+➥ Gains +1 Combo Meter whenever she is Hit.
+➥ Gains +4 Combo Meter whenever she is Intercepted.
+➥ Gains +5 Combo Meter whenever the Opponent blocks SP1 hit.
+➥ Gains +10 Combo Meter whenever the Opponent uses a Special Attack or Heavy Attack.
+➥ Gains +50 Combo Meter whenever Yelena reaches 50% health during any Basic Attack
+In other words, if Yelena drops to 50% health during a Special Attack or while suffering a Damage Effect, she doesn't gain +50 Combo Meter ⚠️
+
+Elimination Mode 🔪
+➤ When Yelena's Combo Meter reaches 100, she enters Elimination Mode.
+In this mode, Yelena activates Flip whenever she's hit with a Light or Heavy Attack.
+She also activates Flip if the Attacker attacks her after she uses SP1.
+And while in this mode, all of Yelena's attacks are guaranteed Critical Hits.
+
+How to defeat Yelena Belova?
+Yelena Belova has a major weakness: Champions with access to the Stun Effect.
+
+If Yelena Belova suffers from a Stun Effect, the Attacker's Attack and Critical Damage Potency are not reduced. In other words, Yelena loses her protection.
+It's also important to pay close attention to Elimination Mode. When she's in this mode, you can't hit her for 10 seconds after she uses SP1.
+
+Is it possible to avoid Elimination Mode? 🤔
+Unfortunately, it's not possible to avoid Elimination Mode.
+However, there is a safe way to end this mode early...
+When she enters Elimination Mode, you must hit Yelena's Block several times.
+Each hit on the Block removes 5 Combo Meter, so after 19 hits on her block, Yelena cancels her Elimination Mode.
+This is the only way to safely cancel Elimination Mode.","Onslaught, Omega Sentinel, Gentle, Jean Grey, Okoye, Chee'ilth, Mister Sinister, Bastion, Cassandra Nova"
